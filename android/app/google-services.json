@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370055015888",
+    "project_id": "arknights-wiki",
+    "storage_bucket": "arknights-wiki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370055015888:android:92922e1d3f61d624769dd5",
+        "android_client_info": {
+          "package_name": "com.example.arknights_wiki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV2srYklbd6TsiZEHYMn_FrOh8IASSRiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
